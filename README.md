@@ -30,6 +30,7 @@
 `whisper ` to convert speech to text
 
 `cohere ` to generate a smart reply
+
 `gTTS `to convert text to Arabic speech
 
 `pygame `to play the response audio
